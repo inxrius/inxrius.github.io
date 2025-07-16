@@ -1,8 +1,7 @@
-# Привет, я [Ваше Имя] 👋
+# Привет, меня зовут Станислав 👋
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/ваш_телеграм)
-[![Email](https://img.shields.io/badge/-Email-important?style=flat&logo=Gmail&logoColor=white)](mailto:ваша_почта)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ваш_линкедин)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/inxrius)
+[![Email](https://img.shields.io/badge/-Email-important?style=flat&logo=Gmail&logoColor=white)](mailto:inariy3146@gmail.com)
 
 ## 🛠 Технологический стек
 
@@ -37,6 +36,5 @@
 
 ## 📫 Как со мной связаться
 
-- Telegram: [@ваш_телеграм](https://t.me/ваш_телеграм)
-- Email: ваша_почта@example.com
-- LinkedIn: [Ваше Имя](https://linkedin.com/in/ваш_линкедин)
+- Telegram: [@ваш_телеграм](https://t.me/inxrius)
+- Email: inariy3146@gmail.com
